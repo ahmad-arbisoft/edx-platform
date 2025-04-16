@@ -1,5 +1,6 @@
 // Import required modules and dependencies
 import {VideoStorage} from './video_storage';
+import $ from 'jquery';
 // TODO: Uncomment the imports
 // import { initialize } from './initialize'; // Assuming this function is imported
 // import {
